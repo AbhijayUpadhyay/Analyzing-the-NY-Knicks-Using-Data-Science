@@ -12,6 +12,6 @@ Decision Trees & KNN to predict game outcomes (win/loss) based on opponent and p
 
 Visualizations including histograms, radar plots, and cluster charts to communicate trends clearly.
 
-Key Insight: The Knicks consistently beat weaker teams and struggled against stronger opponents, with shifts in offensive and defensive balance during the playoffs.
+Key Insight: The Knicks rely on defensive tenacity in order to win games. Additionally, the Knicks consistently beat weaker teams and struggled against stronger opponents, with shifts in offensive and defensive balance during the playoffs. 
 
 This project highlights my skills in data preprocessing, visualization, and machine learning, applied to real-world sports analytics.
